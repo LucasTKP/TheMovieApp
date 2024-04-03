@@ -67,6 +67,7 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 <div align="center">
   
 
+https://github.com/LucasTKP/TheMovieApp/assets/101598532/080add33-b6a7-4e88-974a-8ab7dd093387
 
 
 </div>
