@@ -31,7 +31,7 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
   <td>Lottie: 3.1.0</td>
   <td>Cached Image: 3.3.1</td>
   <td>Shared Preferences: 2.2.2</td>
-  <td>Api: https://api.themoviedb.org/4/'/</td>
+  <td>Api: https://api.themoviedb.org'/</td>
  </tr>
 </table>
 
