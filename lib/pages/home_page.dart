@@ -7,7 +7,6 @@ import 'package:movie_app/repositories/movies_repository_imp.dart';
 import 'package:movie_app/service/dio_service_imp.dart';
 import 'package:movie_app/widgets/custom_list_card_widget.dart';
 import 'package:lottie/lottie.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -34,7 +33,6 @@ class _HomePageState extends State<HomePage> {
           children: [
             Padding(
               padding: const EdgeInsets.all(28),
-              child: SingleChildScrollView(
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -131,7 +129,6 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ],
                 ),
-              ),
             ),
           ],
         ),

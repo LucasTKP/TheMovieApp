@@ -1,5 +1,5 @@
 name: movie_app
-description: "A new Flutter project."
+description: "Projeto que exibe filmes."
 version: 1.0.0+1
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   lottie: ^3.1.0
   cached_network_image: ^3.3.1
-  shared_preferences:
+  shared_preferences: ^2.2.2
   fluttertoast: ^8.2.4
 
 
