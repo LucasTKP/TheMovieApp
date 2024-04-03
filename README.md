@@ -45,12 +45,12 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 </div>
 
 <div align="left"> 
-   <strong>02. Apliquei os princípios de solid:</strong> Visando facilitar a manutenção do aplicativo apliquei alguns princípios de solid.
+   <strong>02. Apliquei os princípios de solid:</strong> Visando facilitar a manutenção do aplicativo apliquei alguns princípios de solid, criando repositories e contratos.
 </div>
 
 
 <div align="left"> 
-   <strong>03. Criei um sistema de cache:</strong> Visando melhorar a UX, criei um cacheamento das páginas que ele acessa. Com isso é possivel utilizar o app sem internet, apenas nas paginas que foram cacheadas.
+   <strong>03. Criei um sistema de cache:</strong> Visando melhorar a UX, criei um cacheamento das páginas que ele acessa. Com isso é possível utilizar o app sem internet, apenas nas paginas que foram cacheadas.
 </div>
 
 <div align="left"> 
