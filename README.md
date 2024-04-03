@@ -1,6 +1,6 @@
 <h1 align="center">Movie App</h1>
 <div>
-Repositório de um projeto que criei para aprimorar meus conhecimentos durante um curso que fiz. Seu objetivo é consumir uma api de filmes e exibir informações sobre eles.
+Repositório de um projeto que criei durante um curso. Seu objetivo é consumir uma api de filmes e exibir informações sobre eles.
 </div>  
   
 
