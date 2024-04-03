@@ -59,7 +59,7 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 
 
 <div align="left"> 
-   <strong>05. Utilizei uma animação do lottie:</strong> Visando melhorar a UX, sempre que faço uma requisição na api, deixo uma animação do lottie ativa.
+   <strong>05. Tratei o tempo de espera por uma resposta da API:</strong> Visando melhorar a UX, sempre que faço uma requisição na api, deixo uma animação do lottie ativa.
 </div>
 
 <br />
